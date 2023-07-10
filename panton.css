@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Panton';
+    font-weight: normal;
+    font-style: normal;
+    src: url('fonts/Panton-ExtraBold.woff2') format('woff2'),
+    url('fonts/Panton-ExtraBold.woff') format('woff'),
+    url('fonts/Panton-ExtraBold.ttf') format('truetype');
+}
